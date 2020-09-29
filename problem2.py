@@ -17,6 +17,6 @@ Enter a number: 4
 """
 ip = input("Enter number ")
 time = 1
-while not time == 12:
+while not time == 13:
     print (int(ip) * time , end=' ')
     time = time + 1
